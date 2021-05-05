@@ -4,7 +4,7 @@ const kidsProducts= [
         id: 1,
         image: <img src="https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3e094ba9-472f-4187-b4f8-4313d5063578/sportswear-big-kids-boys-printed-t-shirt-gzk9px.png" height="150px"></img>,
         name:"Colorfull T-shirt",
-        price:"50.00",
+        price:"55.00",
         
         
     },
