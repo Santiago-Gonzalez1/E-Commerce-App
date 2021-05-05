@@ -4,6 +4,7 @@ import Catalog from "./Catalog"
  function App(){
     return(
         <div className="allbody">
+             <TrendingProducts />
              <Catalog />
         </div>
     )
